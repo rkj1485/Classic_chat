@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.classic.`in`.classic_chat">
+    package="com.classic.in.classic_chat">
    <application
         android:label="classic_chat"
         android:name="${applicationName}"
